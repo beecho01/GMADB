@@ -1,0 +1,10 @@
+global using System.Text;
+global using GMADB.Models;
+global using GMADB.Presentation;
+global using GMADB.Services;
+global using Microsoft.Extensions.DependencyInjection;
+global using Microsoft.Extensions.Hosting;
+global using Microsoft.Extensions.Localization;
+global using Microsoft.Extensions.Logging;
+global using Microsoft.Extensions.Options;
+global using ApplicationExecutionState = Windows.ApplicationModel.Activation.ApplicationExecutionState;
